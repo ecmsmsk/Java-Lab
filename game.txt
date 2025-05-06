@@ -1,0 +1,2 @@
+User wins 6  Computer wins1
+User is the final winner
